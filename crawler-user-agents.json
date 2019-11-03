@@ -4013,5 +4013,14 @@
     ],
     "url": "http://it.region-stuttgart.de/competenzatlas/unternehmen-suchen/"
   }
+  ,
+  {
+    "pattern": "MetaInspector",
+    "addition_date": "2019/11/03",
+    "instances": [
+      "MetaInspector/5.5.0 (+https://github.com/jaimeiniesta/metainspector)"
+    ],
+    "url": "https://github.com/jaimeiniesta/metainspector"
+  }
 ]
 
